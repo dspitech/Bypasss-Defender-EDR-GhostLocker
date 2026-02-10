@@ -208,7 +208,7 @@ source ~/.bashrc && echo -e "\n\n--- TOUT EST PRÊT : COMPILATEUR ET OUTILS INST
 ## Étape 2 : Récupération du dépôt GitHub
 
 ```bash
-git clone https://github.com/zero2504/EDR-GhostLocker
+git clone https://github.com/dspitech/Bypasss-Defender-EDR-GhostLocker.git
 cd Bypasss-Defender-EDR-GhostLocker
 ```
 
@@ -238,7 +238,7 @@ AppLocker ne fonctionne que si le service **Identité de l'application** est act
 
 ```powershell
 cd $env:USERPROFILE\Desktop
-scp kalidefender@10.0.1.5:/home/kalidefender/EDR-GhostLocker/program.exe .
+scp kalidefender@10.0.1.5:/home/kalidefender/Bypass_Microsoft_Defender/program.exe .
 ```
 
 - à Remplacer par vos vrais indenttifiants : `/home/kalidefender` - `10.0.1.5` - `kalidefender`
