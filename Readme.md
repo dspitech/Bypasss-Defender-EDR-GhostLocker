@@ -209,7 +209,7 @@ source ~/.bashrc && echo -e "\n\n--- TOUT EST PRÊT : COMPILATEUR ET OUTILS INST
 
 ```bash
 git clone https://github.com/zero2504/EDR-GhostLocker
-cd EDR-GhostLocker
+cd Bypasss-Defender-EDR-GhostLocker
 ```
 
 ## Étape 3 : Compilation du script PowerShell en exécutable Windows
